@@ -16,6 +16,6 @@ router.GoTo
 );
 ```
 
-Apart form that, you can create view by composing presenters view dependency injecting. This is much in the spirit of Web Components. In other worlds, you can create reusable elements and use them in many parts of your application.
+Another cool feature is you can create reusable elements and use them in many parts of your application, much in the spirit of Web Components. This is done mainly by using dependency injection.
 
 Checkout our [Getting Started](https://github.com/cgarciae/umvc/wiki/Getting-Started) tutorial to create your first MVC App in Unity3D.
