@@ -7,7 +7,7 @@ Its main feature is that you can create presenters easy by simply using annotati
 public class MyPresenter: MVCPresenter
 ```
 
-and this allows you to automatically be able to navigate your to that presenter by using the the router like this
+and this automatically allows you to be able to navigate your to that presenter by using the the router like this
 
 ```
 router.GoTo
